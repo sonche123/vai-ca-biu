@@ -14,6 +14,7 @@ const countryToLanguage: Record<string, string> = {
     DE: 'de',
     DK: 'da',
     EE: 'et',
+    EC: 'es',
     EG: 'ar',
     ES: 'es',
     FI: 'fi',
